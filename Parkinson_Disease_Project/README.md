@@ -7,13 +7,14 @@ The aim of this project is to process MRI/fMRI data, analyze brain regions assoc
 
 ---
 
-# 🎯 Objectives
+# 🎯 Project Objectives
 
-- Study MRI and fMRI data related to Parkinson's disease
-- Compare brain regions affected by Parkinson's disease
-- Organize datasets, workflow, and results
-- Visualize brain structures and functional regions
-- Document the full research pipeline
+- Preprocess structural MRI and fMRI data
+- Normalize brain images to **MNI152 standard space**
+- Extract **Region of Interest (ROI)** signals from motor-related brain regions
+- Analyze functional activity related to **Parkinson’s Disease**
+- Build a **reproducible neuroimaging processing pipeline**
+- Document the full computational workflow
 
 ---
 
@@ -93,10 +94,45 @@ The dataset includes:
 
 # 🛠 Tools and Technologies
 
+### Neuroimaging Software
+- **FSL**
+  - BET
+  - FLIRT
+  - FNIRT
+  - applywarp
+  - epi_reg
+
+### Python Libraries
 - Python
-- MRI / fMRI processing tools
-- Brain atlas datasets
-- Neuroimaging analysis tools
-- GitHub for project management
+- NumPy
+- Pandas
+- NiBabel
+- Nilearn
+
+### Brain Atlas
+- **AAL3 Atlas**
+
+### Environment
+- Linux / WSL
+- Git / GitHub
 
 ---
+
+# 📈 Outputs Generated
+
+The pipeline produces:
+
+- Normalized functional MRI images
+- Structural-to-MNI deformation fields
+- ROI time-series signals
+- Processed datasets for statistical analysis
+
+---
+
+# 🔁 Reproducibility
+
+The project pipeline is designed to be:
+
+✔ modular  
+✔ automated  
+✔ reproducible  
