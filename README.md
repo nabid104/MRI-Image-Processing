@@ -5,4 +5,4 @@ This project focuses on MRI (Magnetic Resonance Imaging) image processing and an
 
 The repository includes "Advanced MRI Image Processing Pipeline" — A modular framework for anatomical, diffusion, and functional MRI data preprocessing, visualization, and analysis. Includes noise reduction, normalization, and future integration of deep learning models for automated tumor detection and tissue classification.
 
-Technologies used: Python, NumPy, Matplotlib, Brainsuit etc.
+Technologies used: Python, NumPy, Matplotlib, Brainsuit, FSL etc.
