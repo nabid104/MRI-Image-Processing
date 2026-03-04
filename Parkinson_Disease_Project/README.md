@@ -1,13 +1,13 @@
 # 🧠 Parkinson Disease MRI Analysis Project
 
-## 📌 Project Overview
+##  Project Overview
 This project focuses on analyzing brain MRI data to study **Parkinson's Disease (PD)**. Parkinson's disease is a neurodegenerative disorder that primarily affects movement and motor control due to the loss of dopamine-producing neurons.
 
 The aim of this project is to process MRI/fMRI data, analyze brain regions associated with Parkinson's disease, and organize the workflow, datasets, and results for research and analysis.
 
 ---
 
-# 🎯 Project Objectives
+#  Project Objectives
 
 - Preprocess structural MRI and fMRI data
 - Normalize brain images to **MNI152 standard space**
@@ -18,7 +18,7 @@ The aim of this project is to process MRI/fMRI data, analyze brain regions assoc
 
 ---
 
-# 🧠 Brain Regions of Interest (ROI)
+#  Brain Regions of Interest (ROI)
 
 The analysis focuses on several important brain regions involved in motor control and Parkinson's disease pathology.
 
@@ -36,7 +36,7 @@ The SMA is responsible for planning and coordinating complex movements.
 
 ---
 
-# 📂 Project Structure
+#  Project Structure
 ```
 Parkinson_Disease_Project
 │
@@ -64,7 +64,7 @@ Parkinson_Disease_Project
 
 ---
 
-# 🔬 Workflow
+#  Workflow
 
 The workflow of this project includes:
 
@@ -77,7 +77,7 @@ The workflow of this project includes:
 
 ---
 
-# 📊 Dataset Information
+#  Dataset Information
 
 The dataset includes:
 
@@ -92,7 +92,7 @@ The dataset includes:
 
 ---
 
-# 🛠 Tools and Technologies
+#  Tools and Technologies
 
 ### Neuroimaging Software
 - **FSL**
@@ -118,7 +118,7 @@ The dataset includes:
 
 ---
 
-# 📈 Outputs Generated
+#  Outputs Generated
 
 The pipeline produces:
 
@@ -129,7 +129,7 @@ The pipeline produces:
 
 ---
 
-# 🔁 Reproducibility
+#  Reproducibility
 
 The project pipeline is designed to be:
 
@@ -137,13 +137,13 @@ The project pipeline is designed to be:
 ✔ automated  
 ✔ reproducible  
 
-# 👨‍🏫 Instructor / Supervisor
+#  Instructor
 
 **Instructor:** Dr. Yushuf Sharker<br>
 Parkinson Disease MRI Analysis Project<br>
 Neuroimaging Research Study<br>
 
-# 👨‍💻 Author
+#  Author
 Md. Raiyan Hasan Nabid<br>
 Parkinson Disease MRI Analysis Project<br>
 Neuroimaging Research Study<br>
