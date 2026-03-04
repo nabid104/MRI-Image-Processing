@@ -36,7 +36,7 @@ The SMA is responsible for planning and coordinating complex movements.
 ---
 
 # 📂 Project Structure
-``` id="79g6qf"
+```
 Parkinson_Disease_Project
 │
 ├── Code
