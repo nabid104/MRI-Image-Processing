@@ -137,13 +137,13 @@ The project pipeline is designed to be:
 ✔ automated  
 ✔ reproducible  
 
-## 👨‍🏫 Instructor / Supervisor
+# 👨‍🏫 Instructor / Supervisor
 
-**Instructor:** Dr. Yushuf Sharker
-Parkinson Disease MRI Analysis Project  
-Neuroimaging Research Study
+**Instructor:** Dr. Yushuf Sharker<br>
+Parkinson Disease MRI Analysis Project<br>
+Neuroimaging Research Study<br>
 
 # 👨‍💻 Author
-Md. Raiyan Hasan Nabid
-Parkinson Disease MRI Analysis Project  
-Neuroimaging Research Study
+Md. Raiyan Hasan Nabid<br>
+Parkinson Disease MRI Analysis Project<br>
+Neuroimaging Research Study<br>
