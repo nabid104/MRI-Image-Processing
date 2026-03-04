@@ -36,30 +36,30 @@ The SMA is responsible for planning and coordinating complex movements.
 ---
 
 # 📂 Project Structure
-'''
+``` id="79g6qf"
 Parkinson_Disease_Project
 │
 ├── Code
-│ └── Scripts for MRI processing and analysis
+│   └── Scripts for MRI processing and analysis
 │
 ├── Dataset
-│ └── Patient and control subject data
+│   └── Patient and control subject data
 │
 ├── Figures
-│ └── Brain visualizations and analysis figures
+│   └── Brain visualizations and analysis figures
 │
 ├── Workflow
-│ └── Processing steps and methodology
+│   └── Processing steps and methodology
 │
 ├── Results
-│ └── Output files and experiment results
+│   └── Output files and experiment results
 │
 ├── Reports
-│ └── Research documentation and summaries
+│   └── Research documentation and summaries
 │
 └── Presentation_Slides
-└── Project presentations
-'''
+    └── Project presentations
+```
 
 ---
 
